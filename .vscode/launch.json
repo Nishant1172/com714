@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "com714_dc2c2fc4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Animal",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "com714_dc2c2fc4"
+        }
+    ]
+}
