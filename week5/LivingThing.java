@@ -15,6 +15,14 @@ public class LivingThing extends World {
         energy = 100;
     }
 
+    public ArrayList<LivingThing> getLivingThings() {
+        return livingThings;
+    }
+
+    public void setLivingThings(ArrayList<LivingThing> livingThings) {
+        this.livingThings = livingThings;
+    }
+
     public int getId() {
         return id;
     }
