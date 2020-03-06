@@ -2,44 +2,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "name": "CodeLens (Launch) - UserInterface",
             "request": "launch",
-            "mainClass": "week5.Main",
+            "mainClass": "Week6.UserInterface",
             "projectName": "com714_dc2c2fc4"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Main",
+            "name": "CodeLens (Launch) - Gui",
             "request": "launch",
-            "mainClass": "week4.Main",
-            "projectName": "com714-1_81df5468"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Main",
-            "request": "launch",
-            "mainClass": "week3.Main",
-            "projectName": "com714-1_81df5468"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "com714-1_81df5468"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Main",
-            "request": "launch",
-            "mainClass": "Main",
-            "projectName": "com714_dc2c2fc4"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Animal",
-            "request": "launch",
-            "mainClass": "Animal",
+            "mainClass": "week6.Gui",
             "projectName": "com714_dc2c2fc4"
         }
     ]
